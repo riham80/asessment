@@ -1,0 +1,109 @@
+{
+    "bmw ms": {
+        "Make": "bmw",
+        "Models": [
+            "ms"
+        ],
+        "Year": "2022",
+        "Engine Type": [
+            "ad"
+        ],
+        "Fuel Type": [
+            "fs"
+        ],
+        "Transmission": [
+            "sffe"
+        ],
+        "Color": "blue"
+    },
+    "tell bmw": {
+        "Make": "tell",
+        "Model": "bmw",
+        "Year": "2023"
+    },
+    "Porsche": {
+        "Make": "Porsche",
+        "Models": [
+            "911"
+        ],
+        "Year": "2024",
+        "Engine Type": [
+            "Flat-six"
+        ],
+        "Fuel Type": [
+            "Gasoline, hybrid"
+        ],
+        "Transmission": [
+            "Manual, automatic, PDK"
+        ],
+        "Color": "black"
+    },
+    "BMW": {
+        "Make": "BMW",
+        "Models": [
+            "3 Series"
+        ],
+        "Year": "2024",
+        "Engine Type": [
+            "Inline, V-type, electric, hybrid"
+        ],
+        "Fuel Type": [
+            "Gasoline, diesel, electric, hybrid"
+        ],
+        "Transmission": [
+            "Manual, automatic, CVT"
+        ],
+        "Color": "blue"
+    },
+    "Mercedes-Benz": {
+        "Make": "Mercedes-Benz",
+        "Models": [
+            "C-Class"
+        ],
+        "Year": "2024",
+        "Engine Type": [
+            "Inline, V-type, electric, hybrid"
+        ],
+        "Fuel Type": [
+            "Gasoline, diesel, electric, hybrid"
+        ],
+        "Transmission": [
+            "Manual, automatic, CVT"
+        ],
+        "Color": "black"
+    },
+    "Audi": {
+        "Make": "Audi",
+        "Models": [
+            "A4"
+        ],
+        "Year": "2024",
+        "Engine Type": [
+            "Inline, V-type, electric, hybrid"
+        ],
+        "Fuel Type": [
+            "Gasoline, diesel, electric, hybrid"
+        ],
+        "Transmission": [
+            "Manual, automatic, CVT"
+        ],
+        "Color": "black"
+    },
+    "Rolls-Royce": {
+        "Make": "Rolls-Royce",
+        "Models": [
+            "Phantom"
+        ],
+        "Year": "2024",
+        "Engine Type": [
+            "V12, electric"
+        ],
+        "Fuel Type": [
+            " Gasoline, electric"
+        ],
+        "Transmission": [
+            "Automatic"
+        ],
+        "Color": "gray"
+    }
+}
